@@ -5,7 +5,7 @@ import { nanoid } from 'nanoid';
 import Filter from './Filter/Filter';
 import s from './App.module.css';
 
-export default class App extends Component {
+export class App extends Component {
   state = {
     contacts: [
       { id: 'id-1', name: 'Rosie Simpson', number: '459-12-56' },
