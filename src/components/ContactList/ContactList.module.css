@@ -1,0 +1,10 @@
+.contacts__list {
+  position: relative;
+  margin-top: 15px;
+}
+
+.empty__text {
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
